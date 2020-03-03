@@ -16,41 +16,33 @@
 
 <!-- TABLE OF CONTENTS -->
 
-\## Table of Contents
+## Table of Contents
 
 
 
-\* [About the Project](#about-the-project)
+*  [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
 
- \* [Built With](#built-with)
+*  [Usage](#usage)
 
-\* [Getting Started](#getting-started)
+*  [Roadmap](#roadmap)
 
- \* [Prerequisites](#prerequisites)
+*  [Contributing](#contributing)
 
- \* [Installation](#installation)
+* [License](#license)
 
-\* [Usage](#usage)
+* [Contact](#contact)
 
-\* [Roadmap](#roadmap)
-
-\* [Contributing](#contributing)
-
-\* [License](#license)
-
-\* [Contact](#contact)
-
-\* [Acknowledgements](#acknowledgements)
-
-
-
-
+* [Acknowledgements](#acknowledgements)
 
 
 
 <!-- ABOUT THE PROJECT -->
 
-\## About The Project
+##  About The Project
 
 
 
@@ -64,11 +56,11 @@ There are many great README templates available on GitHub, however, I didn't fin
 
 Here's why:
 
-\* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
 
-\* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
 
-\* You should element DRY principles to the rest of your life :smile:
+* You should element DRY principles to the rest of your life :smile:
 
 
 
@@ -80,15 +72,15 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 
 
-\### Built With
+### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-\* [Bootstrap](https://getbootstrap.com)
+- [Bootstrap](https://getbootstrap.com)
 
-\* [JQuery](https://jquery.com)
+- [JQuery](https://jquery.com)
 
-\* [Laravel](https://laravel.com)
+- [Laravel](https://laravel.com)
 
 
 
@@ -98,7 +90,7 @@ This section should list any major frameworks that you built your project using.
 
 <!-- GETTING STARTED -->
 
-\## Getting Started
+## Getting Started
 
 
 
@@ -108,53 +100,47 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-\### Prerequisites
+### Prerequisites
 
 
 
 This is an example of how to list things you need to use the software and how to install them.
 
-\* npm
+* npm
 
-\```sh
-
+```sh
 npm install npm@latest -g
-
-\```
-
-
-
-\### Installation
+```
 
 
 
-\1. Get a free API Key at [https://example.com](https://example.com)
+### Installation
 
-\2. Clone the repo
 
-\```sh
 
+1. Get a free API Key at [https://example.com](https://example.com)
+
+2. Clone the repo
+
+```sh
 git clone https://github.com/your_username_/Project-Name.git
+```
 
-\```
 
-\3. Install NPM packages
 
-\```sh
+3. Install NPM packages
 
+```sh
 npm install
+```
 
-\```
 
-\4. Enter your API in `config.js`
 
-\```JS
+4. Enter your API in `config.js`
 
+```JS
 const API_KEY = 'ENTER YOUR API';
-
-\```
-
-
+```
 
 
 
@@ -162,7 +148,7 @@ const API_KEY = 'ENTER YOUR API';
 
 <!-- USAGE EXAMPLES -->
 
-\## Usage
+## Usage
 
 
 
@@ -174,13 +160,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-
-
-
-
 <!-- ROADMAP -->
 
-\## Roadmap
+## Roadmap
 
 
 
@@ -194,7 +176,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <!-- CONTRIBUTING -->
 
-\## Contributing
+## Contributing
 
 
 
@@ -202,33 +184,23 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-\1. Fork the Project
+1. Fork the Project
 
-\2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 
-\3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 
-\4. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
 
-\5. Open a Pull Request
-
-
-
-
+5. Open a Pull Request
 
 
 
 <!-- LICENSE -->
 
-\## License
-
-
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-
 
 
 
@@ -236,17 +208,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 \## Contact
 
-
-
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-
-
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-
 
 
 
@@ -254,35 +218,27 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 \## Acknowledgements
 
-\* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
-\* [Img Shields](https://shields.io)
+* [Img Shields](https://shields.io)
 
-\* [Choose an Open Source License](https://choosealicense.com)
+* [Choose an Open Source License](https://choosealicense.com)
 
-\* [GitHub Pages](https://pages.github.com)
+* [GitHub Pages](https://pages.github.com)
 
-\* [Animate.css](https://daneden.github.io/animate.css)
+* [Animate.css](https://daneden.github.io/animate.css)
 
-\* [Loaders.css](https://connoratherton.com/loaders)
+* [Loaders.css](https://connoratherton.com/loaders)
 
-\* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
 
-\* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 
-\* [Sticky Kit](http://leafo.net/sticky-kit)
+* [Sticky Kit](http://leafo.net/sticky-kit)
 
-\* [JVectorMap](http://jvectormap.com)
+* [JVectorMap](http://jvectormap.com)
 
-\* [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-
-
-
+* [Font Awesome](https://fontawesome.com)
 
 
 
