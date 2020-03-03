@@ -4,7 +4,7 @@
 
 <img src="docs/source/_static/images/logo/intellino_logo.png" width="600" height="300">
 
-# Intellino
+
 
 **The Intellino core logic wrapper for ML simulation with intellino**
 
