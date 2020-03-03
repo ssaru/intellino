@@ -6,7 +6,7 @@
 
 # Intellino
 
-**The Intellino core logic wrapper for ML simulation with intellino
+**The Intellino core logic wrapper for ML simulation with intellino**
 
 </div>
 
