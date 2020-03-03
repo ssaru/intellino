@@ -13,7 +13,7 @@ except ImportError:
 # http://blog.ionelmc.ro/2014/05/25/python-packaging/
 
 PATH_ROOT = os.path.dirname(__file__)
-builtins.__INTELLINO_SETUP__ = True
+builtins.__INTELLINO_SETUP__ = False
 
 import intellino
 
@@ -29,6 +29,7 @@ def load_requirements(path_dir=PATH_ROOT, comment_char='#'):
             reqs.append(ln)
     return reqs
 
+
 # https://packaging.python.org/discussions/install-requires-vs-requirements /
 # keep the meta-data here for simplicity in reading this file... it's not obvious
 # what happens and to non-engineers they won't know to look in init ...
@@ -42,6 +43,8 @@ setup(
     description=intellino.__docs__,
     author=intellino.__author__,
     author_email=intellino.__author_email__,
+
+    url = 'https://github.com/Intellino/intellino',
     download_url='https://github.com/Intellino/intellino',
     
     packages=find_packages(exclude=['tests']),

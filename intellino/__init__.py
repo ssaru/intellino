@@ -1,6 +1,6 @@
 """Root package info."""
 
-__version__ = '0.0.1.dev1'
+__version__ = '0.0.1.dev8'
 __author__ = 'SoC Platform Lab'
 __author_email__ = 'hwangdonghyun@seoultech.ac.kr'
 __license__ = 'GPLv3'
