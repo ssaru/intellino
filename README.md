@@ -1,6 +1,8 @@
 <div align="center">
 
-![Logo](docs/source/_static/images/logo/intellino_logo.png){: width="200" height="200"}
+
+
+<img src="docs/source/_static/images/logo/intellino_logo.png" width="600" height="300">
 
 # Intellino
 
