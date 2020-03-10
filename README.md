@@ -159,7 +159,7 @@ if __name__ == "__main__":
 
 
 
-####NeuronCells
+**NeuronCells**
 
 `NeuronCells` class is core in Intellino. we just focus on here:
 
